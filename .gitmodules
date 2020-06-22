@@ -1,0 +1,4 @@
+[submodule "bathrobe-enthusiast.github.io"]
+	path = bathrobe-enthusiast.github.io
+	url = git@github.com:bathrobe-enthusiast/bathrobe-enthusiast.github.io.git
+	branch = master
