@@ -1,9 +1,10 @@
-baseURL = ""
+baseURL = "https://bathrobe-enthusiast.github.io/notes/"
 languageCode = "en-us"
 title = "Notetaking"
 theme = "anubis"
 paginate = 10
 summaryLength = 20
+publishDir = "docs"
 
 [menu]
 [[menu.main]]
