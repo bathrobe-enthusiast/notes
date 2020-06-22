@@ -1,0 +1,28 @@
+{{ define "main" }}
+
+    <h1>{{ i18n "tag" | humanize }}: {{ .Title }}</h1>
+    <div class="article-info">
+        <a href="{{ "tags/" | absURL }}">{{ i18n "toAllTags" | humanize}}</a>
+    </div>
+    <br>
+    {{ range .Data.Pages }}
+    <div class="post-short-list">
+        <header> 
+            <h2>
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            </h2>
+        </header>
+        <!--div class="content">
+            {{ .Summary }}
+        </div-->
+        {{ partial "articleInfoFull.html" . }}
+<!--         {{ if .Truncated }}
+            <div class="read-more">
+                <a href="{{ .RelPermalink }}">{{ i18n "readMore" | humanize }}</a>
+            </div>
+        {{ end }} -->
+
+    </div>
+    {{ end }}
+
+{{ end }}

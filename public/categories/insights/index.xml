@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>insights on Notetaking</title>
+    <link>/categories/insights/</link>
+    <description>Notetaking (insights)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Jun 2020 02:43:21 +0800</lastBuildDate>
+    
+    <atom:link href="/categories/insights/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Confucianism and Population Density</title>
+      <link>/posts/confucianism-population-density/</link>
+      <pubDate>Fri, 19 Jun 2020 02:43:21 +0800</pubDate>
+      
+      <guid>/posts/confucianism-population-density/</guid>
+      <description>&lt;p&gt;Li, in Confucianism, is a formalization of the philosophy behind the clearly sanctioned rules and behaviour that underpin Asian societies.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;High yields have always supported large populations in monsoon Asia.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The states and empires of monsoon Asia were built consistently on their common peasant base of intensive, high-yield agriculture, which provided the great bulk of revenues, the manpower for armies, and the highly structured social order. [&amp;hellip;] The village worlds were largely self-governing and self-regulating, thanks to the family system, the kin network, and the basic social institutions common to the area as a whole, but they formed the essential foundation for the building and maintenance of empires.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;br&gt;
+Murphey, Rhoads. &lt;em&gt;A History of Asia&lt;/em&gt;. Routledge, 2014.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&#34;../confucianism-overview/&#34;&gt;Confucianism - Overview&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

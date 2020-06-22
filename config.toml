@@ -1,0 +1,39 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Notetaking"
+theme = "anubis"
+paginate = 10
+summaryLength = 20
+
+[menu]
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  title = "About"
+  url = "/about/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "categories"
+  name = "Categories"
+  title = "Categories"
+  url = "/categories/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "tags"
+  name = "Tags"
+  title = "Tags"
+  url = "/tags/"
+  weight = 3
+
+[[menu.main]]
+  identifier = "archive"
+  name = "Archive"
+  title = "Archive"
+  url = "/posts/"
+  weight = 4
+
+[params]
+  author = "bathrobe_enthusiast"
+  description = "notetaking!"
