@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>metal on Notetaking</title>
+    <link>https://bathrobe-enthusiast.github.io/notes/tags/metal/</link>
+    <description>Notetaking (metal)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Jun 2020 18:51:21 +0800</lastBuildDate>
+    
+    <atom:link href="https://bathrobe-enthusiast.github.io/notes/tags/metal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rare Earth Metals</title>
+      <link>https://bathrobe-enthusiast.github.io/notes/posts/rare-earth-metals/</link>
+      <pubDate>Sun, 21 Jun 2020 18:51:21 +0800</pubDate>
+      
+      <guid>https://bathrobe-enthusiast.github.io/notes/posts/rare-earth-metals/</guid>
+      <description>&lt;p&gt;The title is something of a misnomer - they&amp;rsquo;re not that rare. Lanthanum, for example, is almost as abundant as copper and nickel in the Earth&amp;rsquo;s crust, and is 3 times more so than lead. And all the REMs are at least 200x more common than gold.&lt;/p&gt;
+&lt;p&gt;The problem isn&amp;rsquo;t their overall abundance in the crust but the difficulty in extracting them. They tend to not become enrichd into high-grade ores (eg. BIFs) but thinly dispersed in low concentrations through rocks, so on the whole, mining them specifically isn&amp;rsquo;t economically feasible.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;br&gt;
+Dartnell, Lewis. &lt;em&gt;Origins: How the Earth Made Us&lt;/em&gt;. Basic Books, 2019.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aluminium</title>
+      <link>https://bathrobe-enthusiast.github.io/notes/posts/aluminium/</link>
+      <pubDate>Sun, 21 Jun 2020 18:45:16 +0800</pubDate>
+      
+      <guid>https://bathrobe-enthusiast.github.io/notes/posts/aluminium/</guid>
+      <description>&lt;p&gt;Most abundant metal in the Earth&amp;rsquo;s crust (8%), but difficult to separate from its ore. Only towards the end of the 19th century did its mass production become possible, by passing electricity through its molten ore.&lt;/p&gt;
+&lt;p&gt;Widely used:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;building material&lt;/li&gt;
+&lt;li&gt;food packaging&lt;/li&gt;
+&lt;li&gt;airplanes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Aluminium is very lightweight, so it came into its own with the expansion of aviation from WWI.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;br&gt;
+Dartnell, Lewis. &lt;em&gt;Origins: How the Earth Made Us&lt;/em&gt;. Basic Books, 2019.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Steel</title>
+      <link>https://bathrobe-enthusiast.github.io/notes/posts/steel/</link>
+      <pubDate>Sun, 21 Jun 2020 11:01:13 +0800</pubDate>
+      
+      <guid>https://bathrobe-enthusiast.github.io/notes/posts/steel/</guid>
+      <description>&lt;p&gt;Steel: an alloy of iron with a small amount of carbon, typically 1% or less.&lt;/p&gt;
+&lt;h3 id=&#34;importance&#34;&gt;Importance&lt;/h3&gt;
+&lt;p&gt;Properties vary with carbon %: low-carbon steel is soft but tough, high-carbon steel is hard but brittle. In the early years, wrought iron was cooked with charcoal to absorb carbon, or wrought and cast iron were mixed to adjust proportions; high0quality steel remained laborious to create and was reserved for critical applications eg. cutting edge of knives/swords, springs in clocks.&lt;/p&gt;
+&lt;h3 id=&#34;development&#34;&gt;Development&lt;/h3&gt;
+&lt;h2 id=&#34;our-current-age-of-cheap-mass-produced-steel-began-in-the-1850s-with-the-development-of-a-simple-way-to-remove-carbon-from-pig-iron&#34;&gt;&amp;ldquo;Our current age of cheap, mass-produced steel began in the 1850s with the development of a simple way to remove carbon from pig iron.&amp;rdquo;&lt;/h2&gt;
+&lt;p&gt;In the US, post-Civil War, railroads were the largest single employer of labour. Railroad expansion meant a greater need for coal, iron, and later steel, to build railroad cars and lay track.&lt;/p&gt;
+&lt;p&gt;(The steel industry was a catalyst for a host of other industries; in 1859, the value of US manufactured goods was $1.9 billion, but by 1899 it had risen to $13 billion with the rise of industrial giants like Carnegie Steel.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;br&gt;
+Dartnell, Lewis. &lt;em&gt;Origins: How the Earth Made Us&lt;/em&gt;. Basic Books, 2019.
+Murrin, John M., et al. &lt;em&gt;Liberty, Equality, Power: A History of the American People&lt;/em&gt;. 6th ed., Cengage Learning, 2012.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Iron</title>
+      <link>https://bathrobe-enthusiast.github.io/notes/posts/iron/</link>
+      <pubDate>Sun, 21 Jun 2020 10:33:39 +0800</pubDate>
+      
+      <guid>https://bathrobe-enthusiast.github.io/notes/posts/iron/</guid>
+      <description>&lt;h3 id=&#34;first-furnace-bloomer&#34;&gt;First furnace: Bloomer&lt;/h3&gt;
+&lt;p&gt;Iron ore and charcoal are fired enough - but not at temperatures high enough to cause iron to melt and flow away from the slag. Instead, hot but still solid lumps - &amp;lsquo;blooms&amp;rsquo; - or iron made with slag are removed from the furnace and hammered to separate the metal as pure &lt;em&gt;wrought iron&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Established in Anatolia ~1300 BCE.&lt;/p&gt;
+&lt;h3 id=&#34;second-furnace-blast-furnace&#34;&gt;Second furnace: Blast Furnace&lt;/h3&gt;
+&lt;p&gt;Taller furnace, with bellows at the bottom to pump air up, thereby attaining higher temperatures for melting the iron.&lt;/p&gt;
+&lt;p&gt;Adding limestone as &amp;lsquo;flux&amp;rsquo; helps the iron to flow, improving its separation. This molten iron is then drained out of the base of the furnace as &lt;em&gt;pig iron&lt;/em&gt;, or &lt;em&gt;cast iron&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;High in carbon (~3%), which makes it strong but brittle.&lt;/p&gt;
+&lt;p&gt;Operated in 5th century BCE in China, 11th century CE by the Arabs, late 1300s in Europe.&lt;/p&gt;
+&lt;h3 id=&#34;third-furnace-electric-arc-furnace&#34;&gt;Third furnace: Electric Arc Furnace&lt;/h3&gt;
+&lt;p&gt;From steel to steel, see: &lt;a href=&#34;../steel/&#34;&gt;steel&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;br&gt;
+Dartnell, Lewis. &lt;em&gt;Origins: How the Earth Made Us&lt;/em&gt;. Basic Books, 2019.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Copper</title>
+      <link>https://bathrobe-enthusiast.github.io/notes/posts/copper/</link>
+      <pubDate>Sun, 21 Jun 2020 10:17:45 +0800</pubDate>
+      
+      <guid>https://bathrobe-enthusiast.github.io/notes/posts/copper/</guid>
+      <description>&lt;p&gt;The element takes its Latin name - &lt;em&gt;cuprum&lt;/em&gt; - from the island Cyprus, which provided most of the copper for Bronze Age craftsmen in the Mediterranean, Egypt and Mesopotamia.&lt;/p&gt;
+&lt;h3 id=&#34;deposition&#34;&gt;Deposition&lt;/h3&gt;
+&lt;p&gt;Along mid-ocean spreading ridges - when hot magma is close to the surface, seawater enters the cracks, becomes superheated, and surges back up through the crust, leaching minerals out of the surrounding rock as it goes up into hydrothermal vents.&lt;/p&gt;
+&lt;p&gt;Hence the name &amp;ldquo;black smokers&amp;rdquo;, referring to the precipitation of zinc, lead, gold, silver, manganese, suphides&amp;hellip; COPPER, cobalt, etc.&lt;/p&gt;
+&lt;h3 id=&#34;cyprus&#34;&gt;Cyprus&lt;/h3&gt;
+&lt;p&gt;Accessibility of copper on Cyprus due to a slice of ocenic crust that became beached on top of the continental, created in a spreading rift in the Tethys Sea ~90 mya and scooped up on top of Cyprus with the closure of the Tethys as Africa pushed up into Eurasia.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;From the second millennium BC Cyprus became the major supplier of copper to Mesopotamia, Egypt and the Mediterranean world. As we have seen, in the Bronze Age charcoal was used to bake the metal out of its ore in copper smelting furnaces, and so Cyprus’s productivity also depended on a large supply of timber. In fact, by studying the 4 million tonnes of slag heaps on the island that were dumped as waste once the copper metal had been extracted from the mined rock, archaeologists have been able to calculate how much timber was required. It turns out that throughout the 3,000 years of copper production on Cyprus, the entire area of pine forests covering the plains and the mountainsides of the island would need to have been cleared at least sixteen times over – an early example of sustainable woodland management.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;(but the same subduction boundary that created the copper deposits on Cyprus runs past Crete, creating Thera (modern day Santorini), hence the eruption between 1600-1500 BCE.)&lt;/p&gt;
+&lt;h3 id=&#34;other-copper-deposits&#34;&gt;Other copper deposits&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Rio Tinto in Spain&lt;/li&gt;
+&lt;li&gt;Noranda in Canada&lt;/li&gt;
+&lt;li&gt;Ural Mountains in Russia&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;br&gt;
+Dartnell, Lewis. &lt;em&gt;Origins: How the Earth Made Us&lt;/em&gt;. Basic Books, 2019.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

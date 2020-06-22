@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>insights on Notetaking</title>
+    <link>https://bathrobe-enthusiast.github.io/notes/categories/insights/</link>
+    <description>Notetaking (insights)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Jun 2020 03:40:18 +0800</lastBuildDate>
+    
+    <atom:link href="https://bathrobe-enthusiast.github.io/notes/categories/insights/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intrinsic Goodness</title>
+      <link>https://bathrobe-enthusiast.github.io/notes/posts/intrinsic-goodness/</link>
+      <pubDate>Sat, 20 Jun 2020 03:40:18 +0800</pubDate>
+      
+      <guid>https://bathrobe-enthusiast.github.io/notes/posts/intrinsic-goodness/</guid>
+      <description>&lt;p&gt;&amp;ldquo;People are born good&amp;rdquo; (&lt;a href=&#34;../eastern-vs-western-religions/&#34;&gt;a pillar of Eastern religions&lt;/a&gt;) basically goes against the &amp;ldquo;blank slate&amp;rdquo; idea first proposed by John Locke in the 17th century. Jonathan Haidt proposes in his theory of moral foundations that there are six innate foundations of moral reasoning:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Care/Harm&lt;/li&gt;
+&lt;li&gt;Fairness/Cheating&lt;/li&gt;
+&lt;li&gt;Loyalty/Betrayal&lt;/li&gt;
+&lt;li&gt;Authority/Subversion&lt;/li&gt;
+&lt;li&gt;Sanctity/Degradation&lt;/li&gt;
+&lt;li&gt;Liberty/Oppression&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Authority/Subversion - mechanism by which hierarchy operates, and hierarchy/rule-following/conduct is necessary for &lt;a href=&#34;../confucianism-population-density/&#34;&gt;high population density (see: confucianism)&lt;/a&gt; societies or groups. Authority becomes a moral feature for some who &amp;ldquo;live in societies&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;This is the crux of politics, anyway: how to live in a society with others.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Confucianism and Population Density</title>
+      <link>https://bathrobe-enthusiast.github.io/notes/posts/confucianism-population-density/</link>
+      <pubDate>Fri, 19 Jun 2020 02:43:21 +0800</pubDate>
+      
+      <guid>https://bathrobe-enthusiast.github.io/notes/posts/confucianism-population-density/</guid>
+      <description>&lt;p&gt;Li, in Confucianism, is a formalization of the philosophy behind the clearly sanctioned rules and behaviour that underpin Asian societies.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;High yields have always supported large populations in monsoon Asia.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The states and empires of monsoon Asia were built consistently on their common peasant base of intensive, high-yield agriculture, which provided the great bulk of revenues, the manpower for armies, and the highly structured social order. [&amp;hellip;] The village worlds were largely self-governing and self-regulating, thanks to the family system, the kin network, and the basic social institutions common to the area as a whole, but they formed the essential foundation for the building and maintenance of empires.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;br&gt;
+Murphey, Rhoads. &lt;em&gt;A History of Asia&lt;/em&gt;. Routledge, 2014.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&#34;../confucianism-overview/&#34;&gt;Confucianism - Overview&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

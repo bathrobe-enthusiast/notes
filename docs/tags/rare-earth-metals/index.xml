@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rare-earth-metals on Notetaking</title>
+    <link>https://bathrobe-enthusiast.github.io/notes/tags/rare-earth-metals/</link>
+    <description>Notetaking (rare-earth-metals)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Jun 2020 18:51:21 +0800</lastBuildDate>
+    
+    <atom:link href="https://bathrobe-enthusiast.github.io/notes/tags/rare-earth-metals/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rare Earth Metals</title>
+      <link>https://bathrobe-enthusiast.github.io/notes/posts/rare-earth-metals/</link>
+      <pubDate>Sun, 21 Jun 2020 18:51:21 +0800</pubDate>
+      
+      <guid>https://bathrobe-enthusiast.github.io/notes/posts/rare-earth-metals/</guid>
+      <description>&lt;p&gt;The title is something of a misnomer - they&amp;rsquo;re not that rare. Lanthanum, for example, is almost as abundant as copper and nickel in the Earth&amp;rsquo;s crust, and is 3 times more so than lead. And all the REMs are at least 200x more common than gold.&lt;/p&gt;
+&lt;p&gt;The problem isn&amp;rsquo;t their overall abundance in the crust but the difficulty in extracting them. They tend to not become enrichd into high-grade ores (eg. BIFs) but thinly dispersed in low concentrations through rocks, so on the whole, mining them specifically isn&amp;rsquo;t economically feasible.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;br&gt;
+Dartnell, Lewis. &lt;em&gt;Origins: How the Earth Made Us&lt;/em&gt;. Basic Books, 2019.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

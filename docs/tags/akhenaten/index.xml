@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>akhenaten on Notetaking</title>
+    <link>https://bathrobe-enthusiast.github.io/notes/tags/akhenaten/</link>
+    <description>Notetaking (akhenaten)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 May 2020 06:21:43 +0800</lastBuildDate>
+    
+    <atom:link href="https://bathrobe-enthusiast.github.io/notes/tags/akhenaten/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Egyptian History</title>
+      <link>https://bathrobe-enthusiast.github.io/notes/posts/egyptian-history/</link>
+      <pubDate>Sat, 09 May 2020 06:21:43 +0800</pubDate>
+      
+      <guid>https://bathrobe-enthusiast.github.io/notes/posts/egyptian-history/</guid>
+      <description>&lt;p&gt;3100 BCE&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Narmer/Menes unified Upper and Lower Egypt, combining White Crown of Upper Egypt and Red Crown of Lower Egypt into one of the royal crowns, the Double Crown&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Old Kingdom: 2575 - 2125 BCE&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2540 BCE, Pyramid of Giza built under King Khufu&lt;/li&gt;
+&lt;li&gt;Pharaoh portrayed as inaccessible god-king&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Middle Kingdom: 2010 - 1630 BCE&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pharaoh portrayed as shepherd of people&lt;/li&gt;
+&lt;li&gt;Came to an end with invasion of Hyksos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;New Kingdom: 1539 - 1069 BCE&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hatshepsut built a great temple near Thebes&lt;/li&gt;
+&lt;li&gt;Thutmosis III, Hatshepsut&amp;rsquo;s nephew, led 17 military campaigns into Syria and Canaan&lt;/li&gt;
+&lt;li&gt;Amenhotep IV (Akhenaten) and Nefertiti introduced the worship of Aten, god of the sun disk&lt;/li&gt;
+&lt;li&gt;Tutankhamun undid all of Akhenaten&amp;rsquo;s changes&lt;/li&gt;
+&lt;li&gt;Ramesses II regained control of Canaan&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;br&gt;
+Duiker, William, and Jackson Spielvogel. &lt;em&gt;The Essential World History&lt;/em&gt;. Cengage Learning, 2017.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&#34;../egypt-old-kingdom/&#34;&gt;Egypt - Old Kingdom&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;../egypt-middle-kingdom/&#34;&gt;Egypt - Middle Kingdom&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;../egypt-new-kingdom/&#34;&gt;Egypt - New Kingdom&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
