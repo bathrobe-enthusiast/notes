@@ -6,10 +6,36 @@
     <description>Notetaking (Posts)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Jun 2020 18:51:21 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2020 08:16:09 +0800</lastBuildDate>
     
     <atom:link href="https://bathrobe-enthusiast.github.io/notes/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ancient Greece History</title>
+      <link>https://bathrobe-enthusiast.github.io/notes/posts/ancient-greece-history/</link>
+      <pubDate>Tue, 23 Jun 2020 08:16:09 +0800</pubDate>
+      
+      <guid>https://bathrobe-enthusiast.github.io/notes/posts/ancient-greece-history/</guid>
+      <description>&lt;p&gt;800-400 BCE: Rise of the polis&lt;br&gt;
+725-625 BCE: Hoplite tactics become standard&lt;br&gt;
+600 BCE: Militarization of Sparta&lt;br&gt;
+600-500 BCE: Emergence of Milesian School&lt;br&gt;
+594 BCE: Solon&amp;rsquo;s reforms in Athens&lt;br&gt;
+546 BCE: Cyrus of Persia conquers Lydia&lt;br&gt;
+510 BCE: Overthrow of Peisistratid tyrants&lt;br&gt;
+499-494 BCE: Ionian Revolt&lt;br&gt;
+490 BCE: Battle of Marathon&lt;br&gt;
+480 BCE: Battle of Thermopylae and Salamis&lt;br&gt;
+479 BCE: Battle of Plataea&lt;br&gt;
+478 BCE: Formation of Delian League&lt;br&gt;
+431-404 BCE: Peloponnesian War&lt;br&gt;
+399 BCE: Death of Socrates&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;br&gt;
+Cole, Joshua and Carol Symes. &lt;em&gt;Western Civilizations&lt;/em&gt; 18th ed., W. W. Norton &amp;amp; Company, 2014.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Rare Earth Metals</title>
@@ -18,7 +44,7 @@
       
       <guid>https://bathrobe-enthusiast.github.io/notes/posts/rare-earth-metals/</guid>
       <description>&lt;p&gt;The title is something of a misnomer - they&amp;rsquo;re not that rare. Lanthanum, for example, is almost as abundant as copper and nickel in the Earth&amp;rsquo;s crust, and is 3 times more so than lead. And all the REMs are at least 200x more common than gold.&lt;/p&gt;
-&lt;p&gt;The problem isn&amp;rsquo;t their overall abundance in the crust but the difficulty in extracting them. They tend to not become enrichd into high-grade ores (eg. BIFs) but thinly dispersed in low concentrations through rocks, so on the whole, mining them specifically isn&amp;rsquo;t economically feasible.&lt;/p&gt;
+&lt;p&gt;The problem isn&amp;rsquo;t their overall abundance in the crust but the difficulty in extracting them. They tend to not become enriched into high-grade ores (eg. BIFs) but thinly dispersed in low concentrations through rocks, so on the whole, mining them specifically isn&amp;rsquo;t economically feasible.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;br&gt;
 Dartnell, Lewis. &lt;em&gt;Origins: How the Earth Made Us&lt;/em&gt;. Basic Books, 2019.&lt;/p&gt;
@@ -53,14 +79,14 @@ Dartnell, Lewis. &lt;em&gt;Origins: How the Earth Made Us&lt;/em&gt;. Basic Book
       <guid>https://bathrobe-enthusiast.github.io/notes/posts/steel/</guid>
       <description>&lt;p&gt;Steel: an alloy of iron with a small amount of carbon, typically 1% or less.&lt;/p&gt;
 &lt;h3 id=&#34;importance&#34;&gt;Importance&lt;/h3&gt;
-&lt;p&gt;Properties vary with carbon %: low-carbon steel is soft but tough, high-carbon steel is hard but brittle. In the early years, wrought iron was cooked with charcoal to absorb carbon, or wrought and cast iron were mixed to adjust proportions; high0quality steel remained laborious to create and was reserved for critical applications eg. cutting edge of knives/swords, springs in clocks.&lt;/p&gt;
+&lt;p&gt;Properties vary with carbon %: low-carbon steel is soft but tough, high-carbon steel is hard but brittle. In the early years, wrought iron was cooked with charcoal to absorb carbon, or wrought and cast iron were mixed to adjust proportions; high-quality steel remained laborious to create and was reserved for critical applications eg. cutting edge of knives/swords, springs in clocks.&lt;/p&gt;
 &lt;h3 id=&#34;development&#34;&gt;Development&lt;/h3&gt;
 &lt;h2 id=&#34;our-current-age-of-cheap-mass-produced-steel-began-in-the-1850s-with-the-development-of-a-simple-way-to-remove-carbon-from-pig-iron&#34;&gt;&amp;ldquo;Our current age of cheap, mass-produced steel began in the 1850s with the development of a simple way to remove carbon from pig iron.&amp;rdquo;&lt;/h2&gt;
 &lt;p&gt;In the US, post-Civil War, railroads were the largest single employer of labour. Railroad expansion meant a greater need for coal, iron, and later steel, to build railroad cars and lay track.&lt;/p&gt;
 &lt;p&gt;(The steel industry was a catalyst for a host of other industries; in 1859, the value of US manufactured goods was $1.9 billion, but by 1899 it had risen to $13 billion with the rise of industrial giants like Carnegie Steel.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;br&gt;
-Dartnell, Lewis. &lt;em&gt;Origins: How the Earth Made Us&lt;/em&gt;. Basic Books, 2019.
+Dartnell, Lewis. &lt;em&gt;Origins: How the Earth Made Us&lt;/em&gt;. Basic Books, 2019.&lt;br&gt;
 Murrin, John M., et al. &lt;em&gt;Liberty, Equality, Power: A History of the American People&lt;/em&gt;. 6th ed., Cengage Learning, 2012.&lt;/p&gt;
 </description>
     </item>
@@ -75,9 +101,11 @@ Murrin, John M., et al. &lt;em&gt;Liberty, Equality, Power: A History of the Ame
 &lt;p&gt;Iron ore and charcoal are fired enough - but not at temperatures high enough to cause iron to melt and flow away from the slag. Instead, hot but still solid lumps - &amp;lsquo;blooms&amp;rsquo; - or iron made with slag are removed from the furnace and hammered to separate the metal as pure &lt;em&gt;wrought iron&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Established in Anatolia ~1300 BCE.&lt;/p&gt;
 &lt;h3 id=&#34;second-furnace-blast-furnace&#34;&gt;Second furnace: Blast Furnace&lt;/h3&gt;
-&lt;p&gt;Taller furnace, with bellows at the bottom to pump air up, thereby attaining higher temperatures for melting the iron.&lt;/p&gt;
-&lt;p&gt;Adding limestone as &amp;lsquo;flux&amp;rsquo; helps the iron to flow, improving its separation. This molten iron is then drained out of the base of the furnace as &lt;em&gt;pig iron&lt;/em&gt;, or &lt;em&gt;cast iron&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;High in carbon (~3%), which makes it strong but brittle.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Taller furnace, with bellows at the bottom to pump air up, thereby attaining higher temperatures for melting the iron.&lt;/li&gt;
+&lt;li&gt;Adding limestone as &amp;lsquo;flux&amp;rsquo; helps the iron to flow, improving its separation. This molten iron is then drained out of the base of the furnace as &lt;em&gt;pig iron&lt;/em&gt;, or &lt;em&gt;cast iron&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;High in carbon (~3%), which makes it strong but brittle.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;Operated in 5th century BCE in China, 11th century CE by the Arabs, late 1300s in Europe.&lt;/p&gt;
 &lt;h3 id=&#34;third-furnace-electric-arc-furnace&#34;&gt;Third furnace: Electric Arc Furnace&lt;/h3&gt;
 &lt;p&gt;From steel to steel, see: &lt;a href=&#34;../steel/&#34;&gt;steel&lt;/a&gt;&lt;/p&gt;

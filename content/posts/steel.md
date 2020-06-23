@@ -10,7 +10,7 @@ Steel: an alloy of iron with a small amount of carbon, typically 1% or less.
 
 
 ### Importance
-Properties vary with carbon %: low-carbon steel is soft but tough, high-carbon steel is hard but brittle. In the early years, wrought iron was cooked with charcoal to absorb carbon, or wrought and cast iron were mixed to adjust proportions; high0quality steel remained laborious to create and was reserved for critical applications eg. cutting edge of knives/swords, springs in clocks.
+Properties vary with carbon %: low-carbon steel is soft but tough, high-carbon steel is hard but brittle. In the early years, wrought iron was cooked with charcoal to absorb carbon, or wrought and cast iron were mixed to adjust proportions; high-quality steel remained laborious to create and was reserved for critical applications eg. cutting edge of knives/swords, springs in clocks.
 
 ### Development
 
@@ -22,5 +22,5 @@ In the US, post-Civil War, railroads were the largest single employer of labour.
 
 ---
 **References**  
-Dartnell, Lewis. *Origins: How the Earth Made Us*. Basic Books, 2019.
+Dartnell, Lewis. *Origins: How the Earth Made Us*. Basic Books, 2019.  
 Murrin, John M., et al. *Liberty, Equality, Power: A History of the American People*. 6th ed., Cengage Learning, 2012.

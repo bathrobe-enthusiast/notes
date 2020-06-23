@@ -12,11 +12,9 @@ Iron ore and charcoal are fired enough - but not at temperatures high enough to 
 Established in Anatolia ~1300 BCE.
 
 ### Second furnace: Blast Furnace
-Taller furnace, with bellows at the bottom to pump air up, thereby attaining higher temperatures for melting the iron.
-
-Adding limestone as 'flux' helps the iron to flow, improving its separation. This molten iron is then drained out of the base of the furnace as *pig iron*, or *cast iron*.
-
-High in carbon (~3%), which makes it strong but brittle.
+- Taller furnace, with bellows at the bottom to pump air up, thereby attaining higher temperatures for melting the iron.
+- Adding limestone as 'flux' helps the iron to flow, improving its separation. This molten iron is then drained out of the base of the furnace as *pig iron*, or *cast iron*.
+- High in carbon (~3%), which makes it strong but brittle.
 
 Operated in 5th century BCE in China, 11th century CE by the Arabs, late 1300s in Europe.
 

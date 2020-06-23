@@ -8,7 +8,7 @@ draft: false
 
 The title is something of a misnomer - they're not that rare. Lanthanum, for example, is almost as abundant as copper and nickel in the Earth's crust, and is 3 times more so than lead. And all the REMs are at least 200x more common than gold.
 
-The problem isn't their overall abundance in the crust but the difficulty in extracting them. They tend to not become enrichd into high-grade ores (eg. BIFs) but thinly dispersed in low concentrations through rocks, so on the whole, mining them specifically isn't economically feasible.
+The problem isn't their overall abundance in the crust but the difficulty in extracting them. They tend to not become enriched into high-grade ores (eg. BIFs) but thinly dispersed in low concentrations through rocks, so on the whole, mining them specifically isn't economically feasible.
 
 ---
 **References**  
