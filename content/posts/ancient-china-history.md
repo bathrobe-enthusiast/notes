@@ -20,7 +20,7 @@ draft: false
 - With the development of trade and manufacturing, China begins to move toward a money economy. 
 
 551-479 BCE: Life of [Confucius](../confucianism-overview/)  
-403-221 BCE:[**Hundred schools of thought**](../hundred-schools-of-thought/) **; warring states period**  
+403-221 BCE: [**Hundred schools of thought**](../hundred-schools-of-thought/);** warring states period**  
 370-290 BCE: Life of Mengzi  
 
 246 BCE:

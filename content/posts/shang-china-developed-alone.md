@@ -16,4 +16,4 @@ Hence it seems that Chinese civilization, like Indian, was an independent innova
 
 ---
 **References**  
-Murphey, Rhoads. A History of Asia. Routledge, 2014.
+Murphey, Rhoads. *A History of Asia*. Routledge, 2014.

@@ -90,8 +90,8 @@ Hypermedia controls have three jobs:
 - They suggest how the client should integrate the response into its workflow;  describe the relationships between resources. 
 
 **Hypermedia is the engine of application state**  
-i.e. we all navigate the Web by filling out links. Application state: which web page the client is on; hypermedia: the method a server uses to explain to a client what it can do next. State transitions on both client and server are effectede by hypermedia links.
+i.e. we all navigate the Web by filling out links. Application state: which web page the client is on; hypermedia: the method a server uses to explain to a client what it can do next. State transitions on both client and server are effected by hypermedia links.
 
 ---
-**References**
+**References**  
 Fielding, Roy Thomas. *Architectural Styles and the Design of Network-based Software Architecture*. Doctoral dissertation, University of California, Irvine, 2000.

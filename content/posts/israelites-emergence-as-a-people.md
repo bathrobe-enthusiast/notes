@@ -16,4 +16,4 @@ Around 1025 BCE, an influential tribal judge called Samuel selected a king, Saul
 
 ---
 **References**  
-Cole, Joshua and Carol Symes. *Western Civilizations*. 18th ed.,W. W. Norton & Company, 2014.
+Cole, Joshua and Carol Symes. *Western Civilizations*. 18th ed. ,W. W. Norton & Company, 2014.
