@@ -25,7 +25,6 @@ draft: false
 - 776 BCE: First Olympic Games
 - 750 BCE: Colonization
 - 725-625 BCE: Hoplite tactics become standard  
-
 - 600 BCE: Militarization of Sparta  
 - 600-500 BCE: Emergence of Milesian School  
 - 594 BCE: Solon's reforms in Athens  
