@@ -103,9 +103,9 @@ The client has no direct control over resource state on the server, but is able 
 &lt;li&gt;They suggest how the client should integrate the response into its workflow;  describe the relationships between resources.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Hypermedia is the engine of application state&lt;/strong&gt;&lt;br&gt;
-i.e. we all navigate the Web by filling out links. Application state: which web page the client is on; hypermedia: the method a server uses to explain to a client what it can do next. State transitions on both client and server are effectede by hypermedia links.&lt;/p&gt;
+i.e. we all navigate the Web by filling out links. Application state: which web page the client is on; hypermedia: the method a server uses to explain to a client what it can do next. State transitions on both client and server are effected by hypermedia links.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;br&gt;
 Fielding, Roy Thomas. &lt;em&gt;Architectural Styles and the Design of Network-based Software Architecture&lt;/em&gt;. Doctoral dissertation, University of California, Irvine, 2000.&lt;/p&gt;
 </description>
     </item>
